@@ -1,13 +1,17 @@
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 <h1 align="center">Hi 👋, I'm Aditto dev Barmon (koushik)</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="adityo-dev" /> </p>
 
-<img aling="right" alt="Coding" width="300" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p> <img align="center"  width="250" src="https://komarev.com/ghpvc/?username=adityo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="adityo-dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+<p > <img align="right" alt="Coding" width="350"  src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">   </p>
+
 
 - 🔭 I’m currently working on **- 📖 + 💻 student and Coding**
 
