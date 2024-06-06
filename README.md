@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **- 📖 + 💻 student and Coding**
 
-- 🌱 I’m currently learning **- react**
+- 🌱 I’m currently learning **- Typescript **
 
 - 💬 Ask me about **- JavaScript**
 
