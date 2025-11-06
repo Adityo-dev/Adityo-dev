@@ -16,17 +16,17 @@
 
 - 🔭 I’m currently working on **- 📖 + 💻 student and Coding**
 
-- 🌱 I’m currently learning **- Typescript**
+- 🌱 I’m currently learning **- Next js**
 
 - 💬 Ask me about **- JavaScript**
 
-- 📫 How to reach me **computerscience01770@gmail.com**
+- 📫 How to reach me **adittodev01770@gmail.com**
 
 - ⚡ Fun fact **- I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/koushik-barmon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushik-barmon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditto-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushik-barmon" height="30" width="40" /></a>
 <a href="https://fb.com/koushik.barmon.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koushik.barmon.79" height="30" width="40" /></a>
 <a href="https://instagram.com/adittyo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adittyo_dev" height="30" width="40" /></a>
 </p>
