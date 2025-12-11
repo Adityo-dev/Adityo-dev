@@ -1,79 +1,130 @@
-<!-- Header GIF -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" width="100%" />
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" width="100%" style="border-radius:12px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aditto Dev Barmon (Koushik)</h1>
+<h1 align="center">✨ Aditto Dev Barmon | Frontend Developer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityo-dev&label=Profile%20views&color=0e75b6&style=flat" width="180"/>
+  <strong>JavaScript • TypeScript • React • Next.js • UI Developer</strong>
 </p>
 
-<!-- Coding GIF -->
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityo-dev&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 👋 About Me
 
-- 🔭 I’m currently working on **Being a better developer**
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **JavaScript / React / Next.js**
-- 📫 Reach me at: **adittodev01770@gmail.com**
-- ⚡ Fun fact: **I am Funny 😄**
+I'm a passionate **Frontend Developer** focused on building clean, modern & highly responsive UI using  
+**JavaScript, TypeScript, React & Next.js**.
+
+- 🚀 Currently exploring **Advanced Next.js & TypeScript**
+- 🎨 Love designing smooth and clean UI
+- 💬 Ask me about **React, Next.js, Tailwind, API Integration**
+- 📧 Email: **adittodev01770@gmail.com**
+- ⚡ Fun fact: **I code with coffee ☕ & music 🎧**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/aditto-dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
 
 <a href="https://fb.com/koushik.barmon.79" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48" />
 </a>
 
 <a href="https://instagram.com/adittyo_dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="48" />
 </a>
-</p>
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" />
+<a href="https://koushik-psi.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" />
+</a>
 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Skills & Tools
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityo-dev&show_icons=true&locale=en&layout=compact" height="150"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityo-dev&show_icons=true&locale=en" height="150"/>
+---
+
+## 📊 GitHub Performance
+
+## 🔥 Profile Details
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityo-dev&theme=github_dark" 
+    width="100%"
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityo-dev" height="150"/>
+## 🔥 Stats & Productivity  
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityo-dev&theme=github_dark" 
+    width="45%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityo-dev&theme=github_dark&utcOffset=6" 
+    width="45%" 
+  />
+</p>
+
+## 🔥 Streaks
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adityo-dev&theme=tokyonight&hide_border=true" 
+    width="75%"
+  />
+</p>
+
+---
+
+## 🧩 Top Languages & Repo Insights
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityo-dev&theme=github_dark" 
+    width="45%" 
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityo-dev&theme=github_dark" 
+    width="45%" 
+  />
+</p>
+
+---
+
+## 🧨 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityo-dev&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <strong>✨ Thank you for visiting my profile!</strong><br/>
+  <em>Let’s connect & build something amazing together 🚀</em>
 </p>
