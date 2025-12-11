@@ -3,14 +3,12 @@
   <img src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" 
        width="100%" 
        style="border-radius:12px;"/>
-  <br/>
-  <strong style="color:#F2421F; font-size:24px;">Frontend Engineer • JavaScript • TypeScript • React • Next.js</strong>
 </p>
 
 
 
 
-<h1 align="center">✨ Aditto Dev Barmon (Koushik) | Frontend Developer</h1>
+<h2 align="center">✨ Aditto Dev Barmon (Koushik) | Frontend Developer</h2>
 
 <p align="center">
   <strong>JavaScript • TypeScript • React • Next.js</strong>
