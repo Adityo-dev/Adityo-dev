@@ -1,4 +1,4 @@
-<div style="backgroundColor:gray;>
+<div style="backgroundColor:#F2421F;>
 
   ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
