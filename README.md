@@ -1,12 +1,19 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" width="100%" style="border-radius:12px;" />
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" 
+       width="100%" 
+       style="border-radius:12px;"/>
+  <br/>
+  <strong style="color:#F2421F; font-size:24px;">Frontend Engineer • JavaScript • TypeScript • React • Next.js</strong>
 </p>
 
-<h1 align="center">✨ Aditto Dev Barmon | Frontend Developer</h1>
+
+
+
+<h1 align="center">✨ Aditto Dev Barmon (Koushik) | Frontend Developer</h1>
 
 <p align="center">
-  <strong>JavaScript • TypeScript • React • Next.js • UI Developer</strong>
+  <strong>JavaScript • TypeScript • React • Next.js</strong>
 </p>
 
 <p align="center">
@@ -30,31 +37,26 @@ I'm a passionate **Frontend Developer** focused on building clean, modern & high
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
+<p>
 <a href="https://www.linkedin.com/in/aditto-dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
-
 <a href="https://fb.com/koushik.barmon.79" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48" />
 </a>
-
 <a href="https://instagram.com/adittyo_dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="48" />
 </a>
-
 <a href="https://koushik-psi.vercel.app/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" width="48" />
 </a>
-
 </p>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html" width="50"/>
   <img src="https://skillicons.dev/icons?i=css" width="50"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
@@ -70,56 +72,47 @@ I'm a passionate **Frontend Developer** focused on building clean, modern & high
 
 ## 📊 GitHub Performance
 
-## 🔥 Profile Details
+### 🔥 Profile Details
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityo-dev&theme=github_dark" 
-    width="100%"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityo-dev&theme=github_dark" width="100%"/>
 </p>
 
-## 🔥 Stats & Productivity  
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityo-dev&theme=github_dark" 
-    width="45%" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityo-dev&theme=github_dark&utcOffset=6" 
-    width="45%" 
-  />
-</p>
+### 🔥 Stats & Productivity
+<table align="center">
+<tr>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityo-dev&theme=github_dark" width="100%"/>
+</td>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityo-dev&theme=github_dark&utcOffset=6" width="100%"/>
+</td>
+</tr>
+</table>
 
-## 🔥 Streaks
+### 🔥 Streaks
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adityo-dev&theme=tokyonight&hide_border=true" 
-    width="75%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityo-dev&theme=tokyonight&hide_border=true" width="75%"/>
 </p>
 
 ---
 
 ## 🧩 Top Languages & Repo Insights
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityo-dev&theme=github_dark" 
-    width="45%" 
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityo-dev&theme=github_dark" 
-    width="45%" 
-  />
-</p>
+<table align="center">
+<tr>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityo-dev&theme=github_dark" width="100%"/>
+</td>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityo-dev&theme=github_dark" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧨 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityo-dev&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityo-dev&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
