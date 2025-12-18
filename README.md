@@ -62,9 +62,11 @@ I'm a passionate **Frontend Developer** focused on building clean, modern & high
   <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
   <img src="https://skillicons.dev/icons?i=typescript" width="50"/>
   <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="50"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
   <img src="https://skillicons.dev/icons?i=git" width="50"/>
 </p>
+
 
 ---
 
