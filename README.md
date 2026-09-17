@@ -16,7 +16,7 @@
 
 I'm a **full stack developer** from Bangladesh 🇧🇩 working with React, Next.js, TypeScript, Node.js and SQL/NoSQL databases. I build complete applications — authentication, role-based access, dashboards, commerce flows and the APIs behind them.
 
-I care most about the part *after* it works: whether it stays understandable and fast as it grows. Currently running my own agency, **Wexlye**, delivering products for international clients.
+I care most about the part *after* it works: whether it stays understandable and fast as it grows. Currently co-building **Wexlye** with a friend, delivering products for international clients.
 
 <div align="center">
 
@@ -33,11 +33,29 @@ I care most about the part *after* it works: whether it stays understandable and
 
 ## 📈 Experience
 
-| Role | Company | Period |
-| --- | --- | --- |
-| **Full Stack Developer** | Wexlye *(own agency)* | `Jun 2026 → Present` |
-| **Full Stack Developer** | Softvence Agency *(Betopia Group)* | `Nov 2025 → Sep 2026` |
-| **Frontend Developer** | Ecoysoft | `Jan 2023 → Mar 2024` |
+<table width="100%">
+<tr><td colspan="3"><img width="900" height="1" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" /></td></tr>
+<tr>
+<th width="30%" align="left">Role</th>
+<th width="40%" align="left">Company</th>
+<th width="30%" align="left">Period</th>
+</tr>
+<tr>
+<td><b>Full Stack Developer</b></td>
+<td>Wexlye <sub><i>(co-founded with a friend)</i></sub></td>
+<td><code>Jun 2026 → Present</code></td>
+</tr>
+<tr>
+<td><b>Full Stack Developer</b></td>
+<td>Softvence Agency <sub><i>(Betopia Group)</i></sub></td>
+<td><code>Nov 2025 → Sep 2026</code></td>
+</tr>
+<tr>
+<td><b>Frontend Developer</b></td>
+<td>Ecoysoft</td>
+<td><code>Jan 2023 → Mar 2024</code></td>
+</tr>
+</table>
 
 Full-stack delivery across an agency, freelance clients and independent product builds — three years of shipping production applications end to end.
 
@@ -111,6 +129,7 @@ Dynamic pricing matrixes, interactive mega-navigation and domain lookup. 95+ mob
 ## 🧰 What I Build With
 
 <table width="100%">
+<tr><td colspan="2"><img width="900" height="1" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" /></td></tr>
 <tr>
 <td width="20%"><b>Frontend</b></td>
 <td width="80%"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass&perline=8" height="40" /></td>
@@ -140,10 +159,18 @@ Dynamic pricing matrixes, interactive mega-navigation and domain lookup. 95+ mob
 
 ## 💼 Services
 
-| | | |
-| --- | --- | --- |
-| **⚡ Full Stack Development**<br/><sub>Complete apps with modern frontend, API layer and database.</sub> | **🎨 Frontend Development**<br/><sub>React & Next.js interfaces as reusable component systems.</sub> | **🌐 Business Websites**<br/><sub>Fast, responsive, conversion-focused marketing sites.</sub> |
-| **📊 Admin Dashboards**<br/><sub>Data tables, charts, auth and role-based access control.</sub> | **🛒 E-commerce**<br/><sub>Product, cart, order and payment workflows.</sub> | **🔗 API Integration**<br/><sub>REST integration, auth flows and data-driven interfaces.</sub> |
+<table width="100%">
+<tr>
+<td width="33%"><b>⚡ Full Stack Development</b><br/><sub>Complete apps with modern frontend, API layer and database.</sub></td>
+<td width="33%"><b>🎨 Frontend Development</b><br/><sub>React & Next.js interfaces as reusable component systems.</sub></td>
+<td width="33%"><b>🌐 Business Websites</b><br/><sub>Fast, responsive, conversion-focused marketing sites.</sub></td>
+</tr>
+<tr>
+<td width="33%"><b>📊 Admin Dashboards</b><br/><sub>Data tables, charts, auth and role-based access control.</sub></td>
+<td width="33%"><b>🛒 E-commerce</b><br/><sub>Product, cart, order and payment workflows.</sub></td>
+<td width="33%"><b>🔗 API Integration</b><br/><sub>REST integration, auth flows and data-driven interfaces.</sub></td>
+</tr>
+</table>
 
 ## 🧭 How I Work
 
