@@ -21,6 +21,7 @@ I care most about the part *after* it works: whether it stays understandable and
 <div align="center">
 
 <table width="100%">
+<tr><td colspan="4"><img width="900" height="1" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" /></td></tr>
 <tr>
 <td align="center" width="25%"><h3>03+</h3><sub>YEARS EXPERIENCE</sub></td>
 <td align="center" width="25%"><h3>30+</h3><sub>PROJECTS BUILT</sub></td>
@@ -58,6 +59,30 @@ I care most about the part *after* it works: whether it stays understandable and
 </table>
 
 Full-stack delivery across an agency, freelance clients and independent product builds — three years of shipping production applications end to end.
+
+<details>
+<summary><b>📄 See full role descriptions</b></summary>
+<br/>
+
+**Full Stack Developer · Wexlye** *(co-founded with a friend)* — `Jun 2026 → Present`
+Co-building a web development agency, working directly with clients on complete web applications — from initial scoping through deployment. Handling both frontend and backend architecture together, and sharing ownership of the full delivery process end to end.
+- Deliver full-stack web applications for international clients, end to end
+- Own architecture decisions across frontend, backend, and deployment
+- Manage client communication, scoping, and project delivery directly
+
+**Full Stack Developer · Softvence Agency** *(Betopia Group)* — `Nov 2025 → Sep 2026`
+Developed modern, scalable, and responsive web applications for international clients using React, Next.js, TypeScript, Node.js, and Express.js. Built reusable UI components, REST APIs, authentication systems, dashboards, and database integrations while collaborating with cross-functional teams to deliver reliable, production-ready applications.
+- Built and shipped production features across the full stack for external clients
+- Implemented authentication systems, dashboards, and REST API integrations
+- Collaborated with cross-functional teams to deliver production-ready applications
+
+**Frontend Developer · Ecoysoft** — `Jan 2023 → Mar 2024`
+Built responsive and user-friendly web interfaces using React and modern JavaScript. Collaborated closely with backend and design teams to implement clean, reusable UI components and deliver features on time. Gained hands-on experience turning designs into functional, production-ready web pages.
+- Built responsive, reusable UI components with React and modern JavaScript
+- Collaborated with backend and design teams to ship features on schedule
+- Turned design mockups into functional, production-ready interfaces
+
+</details>
 
 ## 🚀 Selected Work
 
